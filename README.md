@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm passionate about building modern web applications and exploring the power of Artificial Intelligence and Data Science.
-
+ I'm passionate about building modern, user-friendly web applications with the MERN stack and exploring the power of AI & Data Science to create intelligent, innovative, and impactful digital solutions. Always learning, creating, and turning ideas into reality. ✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sania Ahmed) 
