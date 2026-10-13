@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sania Ahmed 👋
 
-<!--
-**sania2331/sania2331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 MERN Stack Developer | AI & Data Science Learner
 
-Here are some ideas to get you started:
+I build modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills
+- HTML, CSS, JavaScript
+- React.js, Redux
+- Node.js, Express.js
+- MongoDB
+- Python
+
+### 🚀 Currently Learning
+- Full-Stack Web Development
+- AI & Data Science
+- Building real-world projects
+
+### 📂 My Projects
+Check out my repositories to explore my work and learning journey.
+
+### 📫 Connect With Me
+- GitHub: [@sania2331](https://github.com/sania2331)
+
+---
+⭐ *Learning, building, and growing every day!*
